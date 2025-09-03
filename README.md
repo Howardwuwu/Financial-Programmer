@@ -2,7 +2,7 @@
 This project is designed for anyone who want to transform to become a financial engineer.
 -----
 # Planning
-# 每週學習時間表（工作日 19:00–24:00）
+## 每週學習時間表（工作日 19:00–24:00）
 
 ## 週一
 | 時間         | 項目                     |
